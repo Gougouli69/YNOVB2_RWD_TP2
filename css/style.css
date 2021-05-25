@@ -1,0 +1,10 @@
+img { width: 100%;}
+header .banner {
+    background: url("../img/banner.jpg");
+    max-height: 600px;
+    height: 600px;
+}
+
+section article:nth-child(2n+1){
+    flex-direction:  row-reverse;
+}
