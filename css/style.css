@@ -1,3 +1,6 @@
+body {
+    background: #f2f2f2;
+}
 img { width: 100%;}
 header .banner {
     background: url("../img/banner.jpg");
@@ -7,4 +10,11 @@ header .banner {
 
 section article:nth-child(2n+1){
     flex-direction:  row-reverse;
+}
+p,a {
+    font-family: 'Montserrat', sans-serif;
+}
+h1,h2,h3 {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
 }
