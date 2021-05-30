@@ -3,7 +3,7 @@ body {
 }
 img { width: 100%;}
 header .banner {
-    background: url("../img/detail/ice6.jpg");
+    background: url("../img/detail/banner.jpg");
     max-height: 600px;
     height: 600px;
 }
@@ -17,4 +17,15 @@ p,a {
 h1,h2,h3 {
     font-family: 'Shadows Into Light', cursive;
     font-weight: bold;
+}
+
+.carrousel {
+    margin : 1rem;
+
+    
+}
+@media (min-width: 768px) {
+    .carrousel{
+        margin: 0 150px;
+    }
 }
