@@ -3,7 +3,7 @@
   <h3 style="font-family: 'Shadows Into Light', cursive;" align="center">LeRoiPierre</h3>
 
   <p align="center">
-    Au service des papilles du monde !"
+    "Au service des papilles du monde !"
 </p>
 
 
