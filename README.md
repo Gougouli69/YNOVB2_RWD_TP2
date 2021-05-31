@@ -12,7 +12,7 @@
   <ol>
     <li><a href="#about-the-project">A propos</a></li>
     <li><a href="#made">Fabriqué avec</a></li>
-    <li><a href="#getting-started">Context</a></li>
+    <li><a href="#getting-started">Contexte</a></li>
     <li><a href="#maquette">Maquette</a></li>
     <li><a href="#authors">Auteurs</a></li>
     <li><a href="#link">GitHub</a></li>
@@ -42,7 +42,7 @@ C'est pourquoi:
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) 
 
 
-## Context
+## Contexte
 
 Ce projet rentre dans l'évaluation du modul de Responsive Web Design évalué par notre intervenant. La demande était de réaliser un site responsif `mobile firts` via le framework bootstrap. Ce site dont le sujet était libre devait contenir une page d'accueil, une page détail, un formulaire et des listes. En plus de concevoir un site en HTML et CSS nous devions présenter une maquette correspondant à ce qui sera rendu.
 
