@@ -63,7 +63,7 @@ La maquette est constituée de toutes les pages présentes sur le site dans leur
 ## Auteurs
 
 * **ALOIN Remi** _alias_ [@RemiAloin](https://github.com/RemiAloin)
-* **MOSTACCI Gregory** _alias_ [@aGougouli69](https://github.com/Gougouli69)
+* **MOSTACCI Gregory** _alias_ [@Gougouli69](https://github.com/Gougouli69)
 * **DIET Ebbane** _alias_ [@ebbane](https://github.com/ebbane)
 
 
