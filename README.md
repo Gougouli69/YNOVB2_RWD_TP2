@@ -1,9 +1,5 @@
 
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 style="font-family: 'Shadows Into Light', cursive;" align="center">LeRoiPierre</h3>
 
   <p align="center">
@@ -43,7 +39,7 @@ C'est pourquoi:
 
 * [Bootstrap](https://getbootstrap.com) - Framework
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) 
 
 
 ## Context
@@ -85,6 +81,6 @@ Ce projet est disponible sur GitHub
 * [Unsplash](https://unsplash.com/)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-
+* [Figma](https://www.figma.com)
 
 
